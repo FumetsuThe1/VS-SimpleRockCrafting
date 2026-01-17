@@ -1,7 +1,7 @@
 {
 	ingredientPattern: "RRR	RHR	RRR",
 	ingredients: {
-		"R": { type: "item", code: "game:stone-shale", name: "rock" },
+		"R": { type: "item", code: "game:stone-shale" },
 		"H": { type: "item", code: "hammer-*", isTool: true },
 	},
 	width: 3,

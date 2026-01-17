@@ -1,7 +1,7 @@
 {
 	ingredientPattern: "RRR	RHR	RRR",
 	ingredients: {
-		"R": { type: "item", code: "game:stone-andesite", name: "rock" },
+		"R": { type: "item", code: "game:stone-andesite" },
 		"H": { type: "item", code: "hammer-*", isTool: true },
 	},
 	width: 3,
