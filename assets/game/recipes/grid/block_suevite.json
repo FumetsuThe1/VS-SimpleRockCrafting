@@ -1,0 +1,9 @@
+{
+	ingredientPattern: "RRR	RHR	RRR",
+	ingredients: {
+		"R": { type: "item", code: "game:stone-suevite", name: "rock" },
+		"H": { type: "item", code: "hammer-*", isTool: true },
+	},
+	width: 3,
+	height: 3,
+	output: { type: "block", code: "game:rock-suevite", quantity: 2  }

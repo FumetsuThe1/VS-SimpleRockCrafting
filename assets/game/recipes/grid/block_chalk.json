@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "RRR	RHR	RRR",
+	ingredients: {
+		"R": { type: "item", code: "game:stone-chalk", name: "rock" },
+		"H": { type: "item", code: "hammer-*", isTool: true },
+	},
+	width: 3,
+	height: 3,
+	output: { type: "block", code: "game:rock-chalk", quantity: 2  }
+}

@@ -1,0 +1,15 @@
+
+{
+	"$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "content",
+    "modid": "simplerockcrafting",
+    "name": "Simple Rock Crafting",
+    "authors": [
+        "FumetsuThe1"
+    ],
+    "description": "Allows easier crafting of rock blocks, using 8 stones and any hammer.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}
