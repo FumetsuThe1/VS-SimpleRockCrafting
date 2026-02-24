@@ -3,7 +3,7 @@
 	ingredientPattern: "RRR	RHR	RRR",
 	ingredients: {
 		"R": { type: "item", code: "game:stone-chalk" },
-		"H": { type: "item", code: "game:hammer-*", isTool: true },
+		"H": { type: "item", code: "hammer-*", isTool: true },
 	},
 	width: 3,
 	height: 3,
