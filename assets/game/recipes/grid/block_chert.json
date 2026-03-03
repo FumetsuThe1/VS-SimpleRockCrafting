@@ -1,4 +1,3 @@
-[
 {
 	ingredientPattern: "RRR	RHR	RRR",
 	ingredients: {
@@ -8,16 +7,4 @@
 	width: 3,
 	height: 3,
 	output: { type: "block", code: "game:rock-chert", quantity: 2  }
-},
-
-{
-	ingredientPattern: "RRR	RHR	RRR",
-	ingredients: {
-		"R": { type: "item", code: "game:stone-chert" },
-		"H": { type: "item", code: "stonemallet:mallet-*", isTool: true },
-	},
-	width: 3,
-	height: 3,
-	output: { type: "block", code: "game:rock-chert", quantity: 2  }
 }
-]
