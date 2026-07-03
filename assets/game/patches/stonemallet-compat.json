@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "file": "recipes/grid/compat/stonemallet.json",
+    "path": "/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [
+      { "modid": "stonemallet" }
+    ]
+  }
+]
