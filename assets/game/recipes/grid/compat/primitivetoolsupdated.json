@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "ingredientPattern": "SSS,SHS,SSS",
+  "ingredients": {
+	"S": { "type": "item", "code": "game:stone-*", "name": "rock", 
+	"skipVariants": [ "meteorite-iron" ] },
+	
+    "H": { "type": "item", "code": "primitivetools:stonehammer-*", "isTool": true }
+  },
+  "width": 3,
+  "height": 3,
+  "output": { "type": "block", "code": "game:rock-{rock}", "quantity": 2  }
+}

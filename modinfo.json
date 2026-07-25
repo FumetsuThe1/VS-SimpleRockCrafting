@@ -8,7 +8,7 @@
         "FumetsuThe1"
     ],
     "description": "Allows easier crafting of rock blocks, using 8 stones surrounding any hammer.",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "dependencies": {
         "game": "1.21.0"
     }

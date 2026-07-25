@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "file": "recipes/grid/compat/primitivetoolsupdated.json",
+    "path": "/enabled",
+    "value": true,
+    "side": "Server",
+    "dependsOn": [
+      { "modid": "primitivetoolsupdated" }
+    ]
+  }
+]
